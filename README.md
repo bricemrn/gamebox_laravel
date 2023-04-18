@@ -3,7 +3,7 @@ PHP and Composer are required on your environment.
 
 Run `composer install` to get all the dependencies.
 
-Website link: https://gamebox.bricetroispointzero.io/
+Website link:
 
 # App screenshots
 ![alt text](/screenshot_gamebox_games.png)
